@@ -23,11 +23,24 @@ rusty-leetcode/
 
 ## Setup
 
-```bash
-git clone git@github.com:MNnazrul/rusty-leetcode.git
-cd rusty-leetcode
-cargo test
-```
+1. **Fork** this repository on GitHub (click the "Fork" button on the top right)
+
+2. **Clone your fork** and set up the upstream remote:
+   ```bash
+   git clone git@github.com:<your-username>/rusty-leetcode.git
+   cd rusty-leetcode
+   git remote add upstream git@github.com:MNnazrul/rusty-leetcode.git
+   ```
+
+3. **Create a new branch** for the problem you're solving:
+   ```bash
+   git checkout -b p0042-trapping-rain-water
+   ```
+
+4. **Verify everything works**:
+   ```bash
+   cargo test
+   ```
 
 To view tutorials in the browser:
 
@@ -91,8 +104,10 @@ cd book && mdbook build  # book builds correctly
 
 ## Pull Request Rules
 
+- **Fork** the repo and work on your fork — do not push directly to the main repository
 - Create a **separate branch** for each problem (e.g., `p0042-trapping-rain-water`)
 - Each PR should contain **only one problem** — do not combine multiple problems in a single PR
+- Push to your fork and open a PR against `MNnazrul/rusty-leetcode:main`
 - All CI checks must pass before merging
 
 ## Guidelines
