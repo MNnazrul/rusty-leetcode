@@ -7,6 +7,7 @@ A community-driven collection of LeetCode solutions in Rust. Each problem includ
 | #    | Problem | Difficulty | Tutorial | Solution |
 |------|---------|------------|----------|----------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Tutorial](book/src/problems/p0001_two_sum.md) | [Rust](src/p0001_two_sum.rs) |
+| 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [Tutorial](book/src/problems/p0002_add_two_numbers.md) | [Rust](src/p0002_add_two_numbers.rs) |
 
 ## Contributing
 
