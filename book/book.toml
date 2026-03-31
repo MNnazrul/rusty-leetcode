@@ -1,0 +1,6 @@
+[book]
+title = "LeetCode Solutions Rust"
+authors = ["mn"]
+
+[build]
+build-dir = "build"
