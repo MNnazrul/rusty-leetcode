@@ -2,6 +2,40 @@
 
 Thanks for your interest in contributing! Here's how you can help.
 
+## Project Structure
+
+```
+rusty-leetcode/
+├── src/               # Rust solutions
+│   ├── lib.rs         # Module declarations
+│   └── p0001_two_sum.rs
+├── book/              # Tutorials (mdbook)
+│   ├── book.toml
+│   └── src/
+│       ├── SUMMARY.md
+│       └── problems/
+│           └── p0001_two_sum.md
+├── Cargo.toml
+├── README.md
+├── CONTRIBUTING.md
+└── LICENSE
+```
+
+## Setup
+
+```bash
+git clone git@github.com:MNnazrul/rusty-leetcode.git
+cd rusty-leetcode
+cargo test
+```
+
+To view tutorials in the browser:
+
+```bash
+cargo install mdbook
+cd book && mdbook serve
+```
+
 ## Adding a New Solution
 
 1. Create a solution file in `src/` following the naming convention: `p{number}_{problem_name}.rs`
@@ -42,12 +76,6 @@ cargo test
 
 # Run a specific problem's tests
 cargo test p0042
-```
-
-## Building the Book
-
-```bash
-cd book && mdbook serve
 ```
 
 ## Before Submitting a PR

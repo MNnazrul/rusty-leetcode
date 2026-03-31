@@ -1,31 +1,17 @@
 # LeetCode Solutions in Rust
 
-LeetCode problem solutions implemented in Rust, with detailed explanations.
-
-## Project Structure
-
-```
-leetcode-c-n-rust/
-├── src/               # Rust solutions
-├── book/              # Explanations via mdbook (mdbook serve)
-└── Cargo.toml
-```
-
-## How to Run
-
-```bash
-# Run all tests
-cargo test
-
-# Run a specific problem's test
-cargo test p0001
-
-# View explanations in browser
-cd book && mdbook serve
-```
+A community-driven collection of LeetCode solutions in Rust. Each problem includes a clean, idiomatic solution with inline tests and a beginner-friendly tutorial covering the approach, dry run, code walkthrough, and complexity analysis.
 
 ## Problems
 
 | #    | Problem | Difficulty | Tutorial | Solution |
-|------|---------|------------|-------------|----------|
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [tutorial](book/src/problems/p0001_two_sum.md) | [Rust](src/p0001_two_sum.rs) |
+|------|---------|------------|----------|----------|
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Tutorial](book/src/problems/p0001_two_sum.md) | [Rust](src/p0001_two_sum.rs) |
+
+## Contributing
+
+Want to add a solution or improve an existing one? Check out the [Contributing Guide](CONTRIBUTING.md).
+
+## License
+
+[MIT](LICENSE)
