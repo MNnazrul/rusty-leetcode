@@ -1,7 +1,13 @@
 pub struct Solution;
 
 impl Solution {
-    pub fn find_kth_element(vec1: &[i32], vec2: &[i32], mut i: usize, mut j: usize, mut k: usize) -> i32 {
+    pub fn find_kth_element(
+        vec1: &[i32],
+        vec2: &[i32],
+        mut i: usize,
+        mut j: usize,
+        mut k: usize,
+    ) -> i32 {
         let n = vec1.len();
         let m = vec2.len();
 
@@ -75,18 +81,12 @@ mod tests {
 
     #[test]
     fn test_single_element() {
-        assert_eq!(
-            Solution::find_median_sorted_arrays(vec![1], vec![]),
-            1.0
-        );
+        assert_eq!(Solution::find_median_sorted_arrays(vec![1], vec![]), 1.0);
     }
 
     #[test]
     fn test_empty_first() {
-        assert_eq!(
-            Solution::find_median_sorted_arrays(vec![], vec![2, 3]),
-            2.5
-        );
+        assert_eq!(Solution::find_median_sorted_arrays(vec![], vec![2, 3]), 2.5);
     }
 
     #[test]
