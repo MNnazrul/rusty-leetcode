@@ -8,3 +8,4 @@
 - [2. Add Two Numbers](./problems/p0002_add_two_numbers.md)
 - [3. Longest Substring Without Repeating Characters](./problems/p0003_longest_substring_without_repeating_characters.md)
 - [4. Median of Two Sorted Arrays](./problems/p0004_median_of_two_sorted_arrays.md)
+- [5. Longest Palindromic Substring](./problems/p0005_longest_palindromic_substring.md)
