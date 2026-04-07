@@ -30,8 +30,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Install mdbook
-        run: cargo install mdbook
+      - uses: peaceiris/actions-mdbook@v2
+        with:
+          mdbook-version: 'latest'
 
       - name: Build book
         run: cd book && mdbook build

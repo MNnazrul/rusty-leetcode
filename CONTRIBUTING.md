@@ -55,6 +55,14 @@ cd book && mdbook serve
    ```
    src/p0042_trapping_rain_water.rs
    ```
+   Every solution file must start with `pub struct Solution;`:
+   ```rust
+   pub struct Solution;
+
+   impl Solution {
+       // your solution here
+   }
+   ```
 
 2. Register the module in `src/lib.rs`:
    ```rust
@@ -101,6 +109,19 @@ cargo clippy         # linting
 cargo test           # tests
 cd book && mdbook build  # book builds correctly
 ```
+
+## Avoiding Merge Conflicts
+
+Three files are touched by every PR: `src/lib.rs`, `README.md`, and `book/src/SUMMARY.md`. If another problem is merged while your PR is open, you'll get a conflict in one or more of these files.
+
+To resolve it:
+
+```bash
+git fetch upstream
+git rebase upstream/main
+```
+
+Then open the conflicting file and add your line after the existing entries — the order should match the problem number. The conflict will always be a simple sequential addition, never overlapping logic.
 
 ## Pull Request Rules
 
