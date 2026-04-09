@@ -12,6 +12,7 @@ A community-driven collection of LeetCode solutions in Rust. Each problem includ
 | 0004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [Tutorial](book/src/problems/p0004_median_of_two_sorted_arrays.md) | [Rust](src/p0004_median_of_two_sorted_arrays.rs) |
 | 0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [Tutorial](book/src/problems/p0005_longest_palindromic_substring.md) | [Rust](src/p0005_longest_palindromic_substring.rs) |
 | 0006 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Medium | [Tutorial](book/src/problems/p0006_zigzag_conversion.md) | [Rust](src/p0006_zigzag_conversion.rs) |
+| 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Medium | [Tutorial](book/src/problems/p0007_reverse_integer.md) | [Rust](src/p0007_reverse_integer.rs) |
 
 ## Contributing
 

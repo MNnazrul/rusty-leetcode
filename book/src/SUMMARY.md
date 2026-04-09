@@ -10,3 +10,4 @@
 - [4. Median of Two Sorted Arrays](./problems/p0004_median_of_two_sorted_arrays.md)
 - [5. Longest Palindromic Substring](./problems/p0005_longest_palindromic_substring.md)
 - [6. Zigzag Conversion](./problems/p0006_zigzag_conversion.md)
+- [7. Reverse Integer](./problems/p0007_reverse_integer.md)
