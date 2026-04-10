@@ -21,7 +21,7 @@ impl Solution {
         if flag {
             ans *= -1;
         }
-        ans as i32
+        ans
     }
 }
 
