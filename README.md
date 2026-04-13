@@ -13,6 +13,7 @@ A community-driven collection of LeetCode solutions in Rust. Each problem includ
 | 0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [Tutorial](book/src/problems/p0005_longest_palindromic_substring.md) | [Rust](src/p0005_longest_palindromic_substring.rs) |
 | 0006 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Medium | [Tutorial](book/src/problems/p0006_zigzag_conversion.md) | [Rust](src/p0006_zigzag_conversion.rs) |
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Medium | [Tutorial](book/src/problems/p0007_reverse_integer.md) | [Rust](src/p0007_reverse_integer.rs) |
+| 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | [Tutorial](book/src/problems/p0008_string_to_integer_atoi.md) | [Rust](src/p0008_string_to_integer_atoi.rs) |
 
 ## Contributing
 
