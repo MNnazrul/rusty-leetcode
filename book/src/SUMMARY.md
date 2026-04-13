@@ -11,3 +11,4 @@
 - [5. Longest Palindromic Substring](./problems/p0005_longest_palindromic_substring.md)
 - [6. Zigzag Conversion](./problems/p0006_zigzag_conversion.md)
 - [7. Reverse Integer](./problems/p0007_reverse_integer.md)
+- [8. String to Integer (atoi)](./problems/p0008_string_to_integer_atoi.md)
