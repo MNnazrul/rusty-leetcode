@@ -13,3 +13,4 @@
 - [7. Reverse Integer](./problems/p0007_reverse_integer.md)
 - [8. String to Integer (atoi)](./problems/p0008_string_to_integer_atoi.md)
 - [9. Palindrome Number](./problems/p0009_palindrome_number.md)
+- [10. Regular Expression Matching](./problems/p0010_regular_expression_matching.md)
