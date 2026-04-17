@@ -16,6 +16,7 @@ A community-driven collection of LeetCode solutions in Rust. Each problem includ
 | 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | [Tutorial](book/src/problems/p0008_string_to_integer_atoi.md) | [Rust](src/p0008_string_to_integer_atoi.rs) |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [Tutorial](book/src/problems/p0009_palindrome_number.md) | [Rust](src/p0009_palindrome_number.rs) |
 | 0010 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Hard | [Tutorial](book/src/problems/p0010_regular_expression_matching.md) | [Rust](src/p0010_regular_expression_matching.rs) |
+| 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [Tutorial](book/src/problems/p0011_container_with_most_water.md) | [Rust](src/p0011_container_with_most_water.rs) |
 
 ## Contributing
 
