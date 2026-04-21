@@ -18,6 +18,7 @@ A community-driven collection of LeetCode solutions in Rust. Each problem includ
 | 0010 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Hard | [Tutorial](book/src/problems/p0010_regular_expression_matching.md) | [Rust](src/p0010_regular_expression_matching.rs) |
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [Tutorial](book/src/problems/p0011_container_with_most_water.md) | [Rust](src/p0011_container_with_most_water.rs) |
 | 0012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | [Tutorial](book/src/problems/p0012_integer_to_roman.md) | [Rust](src/p0012_integer_to_roman.rs) |
+| 0016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Medium | [Tutorial](book/src/problems/p0016_3sum_closest.md) | [Rust](src/p0016_3sum_closest.rs) |
 
 ## Contributing
 
