@@ -16,3 +16,4 @@
 - [10. Regular Expression Matching](./problems/p0010_regular_expression_matching.md)
 - [11. Container With Most Water](./problems/p0011_container_with_most_water.md)
 - [12. Integer to Roman](./problems/p0012_integer_to_roman.md)
+- [16. 3Sum Closest](./problems/p0016_3sum_closest.md)
