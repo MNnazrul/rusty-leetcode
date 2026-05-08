@@ -20,6 +20,7 @@ A community-driven collection of LeetCode solutions in Rust. Each problem includ
 | 0012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | [Tutorial](book/src/problems/p0012_integer_to_roman.md) | [Rust](src/p0012_integer_to_roman.rs) |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Tutorial](book/src/problems/p0013_roman_to_integer.md) | [Rust](src/p0013_roman_to_integer.rs) |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [Tutorial](book/src/problems/p0014_longest_common_prefix.md) | [Rust](src/p0014_longest_common_prefix.rs) |
+| 0015 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | [Tutorial](book/src/problems/p0015_3sum.md) | [Rust](src/p0015_3sum.rs) |
 | 0016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Medium | [Tutorial](book/src/problems/p0016_3sum_closest.md) | [Rust](src/p0016_3sum_closest.rs) |
 
 ## Contributing

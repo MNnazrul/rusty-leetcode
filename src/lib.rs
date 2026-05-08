@@ -12,4 +12,5 @@ pub mod p0011_container_with_most_water;
 pub mod p0012_integer_to_roman;
 pub mod p0013_roman_to_integer;
 pub mod p0014_longest_common_prefix;
+pub mod p0015_3sum;
 pub mod p0016_3sum_closest;
