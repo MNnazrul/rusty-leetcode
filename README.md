@@ -22,6 +22,7 @@ A community-driven collection of LeetCode solutions in Rust. Each problem includ
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [Tutorial](book/src/problems/p0014_longest_common_prefix.md) | [Rust](src/p0014_longest_common_prefix.rs) |
 | 0015 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | [Tutorial](book/src/problems/p0015_3sum.md) | [Rust](src/p0015_3sum.rs) |
 | 0016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Medium | [Tutorial](book/src/problems/p0016_3sum_closest.md) | [Rust](src/p0016_3sum_closest.rs) |
+| 0017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | [Tutorial](book/src/problems/p0017_letter_combinations_of_a_phone_number.md) | [Rust](src/p0017_letter_combinations_of_a_phone_number.rs) |
 
 ## Contributing
 
