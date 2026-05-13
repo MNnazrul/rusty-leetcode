@@ -23,6 +23,7 @@ A community-driven collection of LeetCode solutions in Rust. Each problem includ
 | 0015 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | [Tutorial](book/src/problems/p0015_3sum.md) | [Rust](src/p0015_3sum.rs) |
 | 0016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Medium | [Tutorial](book/src/problems/p0016_3sum_closest.md) | [Rust](src/p0016_3sum_closest.rs) |
 | 0017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | [Tutorial](book/src/problems/p0017_letter_combinations_of_a_phone_number.md) | [Rust](src/p0017_letter_combinations_of_a_phone_number.rs) |
+| 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | [Tutorial](book/src/problems/p0019_remove_nth_node_from_end_of_list.md) | [Rust](src/p0019_remove_nth_node_from_end_of_list.rs) |
 
 ## Contributing
 
